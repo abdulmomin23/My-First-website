@@ -1,0 +1,59 @@
+
+/* All text style */
+body{
+  font-family: 'Open Sans', sans-serif;
+}
+
+.hadder{
+  background-color: #FFF8F3;
+
+}
+
+/* all button color */
+.primary-color{
+  color: #FD6E0A;
+}
+.primary-button{
+    border-radius: 5px;
+    background: #FD6E0A;
+    border:0;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 10px 35px;
+}
+
+/* all navigation(nv) */
+
+nav{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0px 200px;
+}
+
+.title{
+  color:#181818 ;
+  font-size: 45px;
+  font-weight: 800px;
+  
+}
+
+nav > ul{
+  display: flex;
+  align-items: center;
+}
+
+nav li {
+  list-style: none;
+  margin-right: 50px;
+}
+
+.banner{
+  padding: 30px 30px 30px 150px;
+  display: flex;
+  align-items: center;
+}
+.profile-picture{
+  width: 500px;
+}
