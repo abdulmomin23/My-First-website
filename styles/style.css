@@ -187,3 +187,12 @@ nav li {
       .downloadCV{
         margin: 50px;
       }
+
+      .Project{
+        margin:20px 120px  20px;
+        background-color: rgb(249, 242, 232);
+        padding: 20px;
+        text-align: center;
+      }
+
+      
